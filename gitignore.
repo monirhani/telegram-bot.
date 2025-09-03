@@ -1,0 +1,10 @@
+sessions/
+.env
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+*.log
+logs/
+.vscode/
+.idea/
